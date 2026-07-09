@@ -1,18 +1,4 @@
 LANGS en ru
-DECK deck-ecb580
-  order 10
-  kind deck
-  author claude
-  name.ru Тест автомодерации (удалю сам)
-  desc.ru проверка
-ENDDECK
-CARDS deck-ecb580 ru black
-Автомодерация пропустила ____
-ENDCARDS
-CARDS deck-ecb580 ru white
-Этот тест
-Вот это вот всё
-ENDCARDS
 DECK community
   order 1
   kind trash
