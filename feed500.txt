@@ -12,6 +12,19 @@ ENDCARDS
 CARDS deck-8f2098 ru white
 фвфв
 ENDCARDS
+DECK deck-b93170
+  order 10
+  kind deck
+  author фвфвфыв
+  name.ru фывфыв
+  desc.ru фывфыв
+ENDDECK
+CARDS deck-b93170 ru black
+фывфыв
+ENDCARDS
+CARDS deck-b93170 ru white
+фывфыв
+ENDCARDS
 DECK community
   order 1
   kind trash
