@@ -1,17 +1,4 @@
 LANGS en ru
-DECK deck-8f2098
-  order 10
-  kind deck
-  author фвфв
-  name.ru фвфв
-  desc.ru фвфв
-ENDDECK
-CARDS deck-8f2098 ru black
-фвфв
-ENDCARDS
-CARDS deck-8f2098 ru white
-фвфв
-ENDCARDS
 DECK community
   order 1
   kind trash
