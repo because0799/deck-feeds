@@ -1,1 +1,13 @@
 LANGS en ru
+DECK community
+  order 1
+  kind trash
+  name.en Community pack
+  name.ru Общий пак
+ENDDECK
+CARDS community ru black
+[игрок] ну как та с деньгами
+ENDCARDS
+CARDS community ru white
+какими деньгами
+ENDCARDS
