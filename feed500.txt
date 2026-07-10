@@ -7,9 +7,7 @@ DECK community
 ENDDECK
 CARDS community ru black
 [игрок] ну как та с деньгами
-test
 ENDCARDS
 CARDS community ru white
 какими деньгами
-test
 ENDCARDS
